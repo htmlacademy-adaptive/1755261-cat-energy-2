@@ -1,1 +1,17 @@
-/* здесь используйте глобальные селекторы img, body, html и так далее */
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 18px;
+  line-height: 24px;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+
+}
